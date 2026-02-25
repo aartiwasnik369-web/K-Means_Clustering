@@ -58,18 +58,7 @@ Used:
 - Optimal Number of Clusters: 5
 - Silhouette Score: ~0.5 (approximate, may vary slightly)
 
----
-
-## 🧠 Interview Questions Covered
-
-1. How does K-Means clustering work?
-2. What is the Elbow method?
-3. What are the limitations of K-Means?
-4. How does initialization affect results?
-5. What is inertia in K-Means?
-6. What is Silhouette Score?
-7. How do you choose the right number of clusters?
-8. Difference between clustering and classification
+ Difference between clustering and classification
 
 ---
 
@@ -78,17 +67,6 @@ Used:
 - Learned K-Means clustering algorithm
 - Learned how to evaluate clustering models
 - Learned how to visualize clusters effectively
-
----
-
-## 📁 Project Structure
-```
-Task-8-KMeans-Clustering/
-│
-├── Mall_Customers.csv
-├── Task8_KMeans.ipynb
-└── README.md
-```
 
 ---
 
